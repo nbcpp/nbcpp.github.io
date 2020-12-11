@@ -6,4 +6,6 @@ title: hello world
 
 <p>{{ page.date | date_to_string }}</p>
 
-<p>hello world...</p>
+<p>It works...Today is your lucky day.</p>
+
+
